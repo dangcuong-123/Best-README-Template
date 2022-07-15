@@ -81,14 +81,14 @@ The word target (検索語) must be in sequence (用例)
 
 Input example
 
-*example.csv*
+1. example.csv
 ```
 context,word
 The teacher gave some suggestions on what could come out for the examination,suggestions
 I love you, love
 ```
 
-*example.json*
+2. example.json
 ```
 {
     "context":{
@@ -102,7 +102,7 @@ I love you, love
 }
 ```
 
-*example.xlsx*
+3. example.xlsx
 ![image](https://user-images.githubusercontent.com/48614539/179150089-9e3d8599-3285-4972-85e9-1b4a5b1e706d.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
