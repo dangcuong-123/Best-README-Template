@@ -16,8 +16,8 @@
     <li><a href="#pipeline-modeling">Pipeline modeling</a></li>
     <li><a href="#usage">Usage</a></li>
      <ul>
-        <li><a href="#tag-検索">Tag 検索</a></li>
-        <li><a href="#tag-まとめて検索">Tag まとめて検索</a></li>
+        <li><a href="#tab-検索">Tab 検索</a></li>
+        <li><a href="#tab-まとめて検索">Tab まとめて検索</a></li>
       </ul>
   </ol>
 </details>
@@ -69,10 +69,10 @@ sudo docker run -p 5000:5000 -d app
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-### Tag 検索
+### Tab 検索
 The word target (検索語) must be in sequence (用例)
 
-### Tag まとめて検索
+### Tab まとめて検索
 
 Input example
 
