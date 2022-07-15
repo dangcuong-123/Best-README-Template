@@ -19,6 +19,7 @@
         <li><a href="#tab-検索">Tab 検索</a></li>
         <li><a href="#tab-まとめて検索">Tab まとめて検索</a></li>
       </ul>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -62,7 +63,8 @@ sudo docker run -p 5000:5000 -d app
 
 ## Pipeline modeling 
 
-![pionero_okg drawio](https://user-images.githubusercontent.com/48614539/179146005-fee65eb8-24e6-4fed-8ca9-9e0516a9c199.png)
+![pionero_okg drawio (2)](https://user-images.githubusercontent.com/48614539/179154866-867ecfba-7b1a-4c78-85bf-301c9f0e7337.png)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -101,3 +103,9 @@ I love you, love
 ![image](https://user-images.githubusercontent.com/48614539/179150089-9e3d8599-3285-4972-85e9-1b4a5b1e706d.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## References
+
+* [Gensim](https://radimrehurek.com/gensim/)
+* [Datamuse api](https://www.datamuse.com/api/)
+
