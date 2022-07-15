@@ -14,15 +14,16 @@
       </ul>
     </li>
     <li><a href="#pipeline-modeling">Pipeline modeling</a></li>
-    <li><a href="#usage">Usage</a></li>
-     <ul>
-        <li><a href="#tab-検索">Tab 検索</a></li>
-        <li><a href="#tab-まとめて検索">Tab まとめて検索</a></li>
+    <li><a href="#usage">Usage</a>
+        <ul>
+          <li><a href="#tab-検索">Tab 検索</a></li>
+          <li><a href="#tab-まとめて検索">Tab まとめて検索</a></li>
       </ul>
+    </li>
+     
     <li><a href="#references">References</a></li>
   </ol>
 </details>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
