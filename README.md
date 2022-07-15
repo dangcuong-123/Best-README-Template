@@ -20,7 +20,6 @@
           <li><a href="#tab-まとめて検索">Tab まとめて検索</a></li>
       </ul>
     </li>
-     
     <li><a href="#references">References</a></li>
   </ol>
 </details>
