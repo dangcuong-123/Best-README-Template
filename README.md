@@ -1,4 +1,5 @@
 # 類似語検索システム
+<div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -34,44 +35,74 @@
 
 `python 3.9`
 
+`docker` [Option]
+
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+1. Clone the this repo
 2. Install packages
-   ```sh
-   pip install -r requirements.txt
+```sh
+pip install -r requirements.txt
    ```
 3. Run app 
-   ```sh
-   python3 app.py
+```sh
+python3 app.py
    ```
 
 ### Install with docker [Option] 
 
-1. Download docker: https://docs.docker.com/engine/install/
+1. Clone the this repo
 2. Build docker 
 ```sh
-   sudo docker image build -t app .
+sudo docker image build -t app .
    ```
 3. Run docker 
 ```sh
-   sudo docker run -p 5000:5000 -d app
+sudo docker run -p 5000:5000 -d app
    ```
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+## Pipeline modeling 
+
+![pionero_okg drawio](https://user-images.githubusercontent.com/48614539/179146005-fee65eb8-24e6-4fed-8ca9-9e0516a9c199.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+### Tag 検索
+The word target (検索語) must be in sequence (用例)
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Tag まとめて検索
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Input example
+
+*example.csv*
+```
+context,word
+The teacher gave some suggestions on what could come out for the examination,suggestions
+I love you, love
+```
+
+*example.json*
+```
+{
+    "context":{
+        "0":"The teacher gave some suggestions on what could come out for the examination",
+        "1":"I love you"
+    },
+    "word":{
+        "0":"suggestions",
+        "1":"love"
+    }
+}
+```
+
+*example.xlsx*
+![image](https://user-images.githubusercontent.com/48614539/179150089-9e3d8599-3285-4972-85e9-1b4a5b1e706d.png)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
