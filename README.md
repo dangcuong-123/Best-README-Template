@@ -108,4 +108,5 @@ I love you, love
 
 * [Gensim](https://radimrehurek.com/gensim/)
 * [Datamuse api](https://www.datamuse.com/api/)
+* [Fitbert](https://github.com/writerai/fitbert)
 
