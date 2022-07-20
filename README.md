@@ -63,7 +63,7 @@ sudo docker run -p 5000:5000 -d app
 
 ## Pipeline modeling 
 
-![pionero_okg drawio (2)](https://user-images.githubusercontent.com/48614539/179154866-867ecfba-7b1a-4c78-85bf-301c9f0e7337.png)
+![pionero_okg drawio](https://user-images.githubusercontent.com/48614539/179895654-2ec69dd8-0059-43ff-9baf-b72401dce033.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
