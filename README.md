@@ -35,7 +35,7 @@
 
 ### Installation
 
-1. Clone the this repo
+1. Clone this repo
 2. Install packages
 ```sh
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ python3 app.py
 
 ### Install with docker [Option] 
 
-1. Clone the this repo
+1. Clone this repo
 2. Build docker 
 ```sh
 sudo docker image build -t app .
