@@ -140,6 +140,8 @@ server {
 - ```sudo systemctl restart nginx```
 - ```sudo ufw allow 'Nginx Full'```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 ### Tab 検索
